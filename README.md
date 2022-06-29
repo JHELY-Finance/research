@@ -7,5 +7,6 @@
 2. Arb between two DEXes:
 * https://medium.com/@bneiluj/flash-boys-arbitrage-dao-c0b96d094f93
 
-3. Triangle arbitrage in Stellar blockchain
-
+3. Triangle arbitrage in Stellar blockchain:
+* explained: TODO
+* Algo explaining how to assess if given triangle-arbitrage opportunity is profitable: [triangular-arbitrage-profit-conditions-and-a-trading-algorithm.pdf](triangular-arbitrage-profit-conditions-and-a-trading-algorithm.pdf).
