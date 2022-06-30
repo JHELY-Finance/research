@@ -10,3 +10,4 @@
 3. Triangle arbitrage in Stellar blockchain:
 * Good intro explanation video: https://youtu.be/Sk752jVyFGI
 * Algo explaining how to assess if given triangle-arbitrage opportunity is profitable: [triangular-arbitrage-profit-conditions-and-a-trading-algorithm.pdf](triangular-arbitrage-profit-conditions-and-a-trading-algorithm.pdf).
+* Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges: https://arxiv.org/pdf/1904.05234.pdf
