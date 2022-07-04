@@ -3,6 +3,7 @@
 * Part 2: https://extropy-io.medium.com/arbitrage-bot-part-2-97e7b710dcf
 * Original code: https://github.com/ExtropyIO/defi-bot
 * Forked code: https://github.com/ArbDeFi/defi-bot
+* Dydx flash loan explained: https://github.com/studydefi/money-legos/blob/master/docs/dydx.md
 
 2. Arb between two DEXes:
 * https://medium.com/@bneiluj/flash-boys-arbitrage-dao-c0b96d094f93
