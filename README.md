@@ -4,6 +4,7 @@
 * Original code: https://github.com/ExtropyIO/defi-bot
 * Forked code: https://github.com/ArbDeFi/defi-bot
 * Dydx flash loan explained: https://github.com/studydefi/money-legos/blob/master/docs/dydx.md
+* Multi swap in Solidity, part 1: https://soliditydeveloper.com/multiswap , part 2: https://soliditydeveloper.com/multiswap-advanced
 
 2. Arb between two DEXes:
 * https://medium.com/@bneiluj/flash-boys-arbitrage-dao-c0b96d094f93
