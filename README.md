@@ -1,3 +1,7 @@
+0. Triangular arbitrage 101:
+* https://www.investopedia.com/terms/t/triangulararbitrage.asp
+* https://en.wikipedia.org/wiki/Triangular_arbitrage
+* https://www.wallstreetmojo.com/triangular-arbitrage/
 1. Arb between: 0x + DEX arb strategy explained:
 * Part 1: https://extropy-io.medium.com/coding-a-defi-arbitrage-bot-45e550d85089
 * Part 2: https://extropy-io.medium.com/arbitrage-bot-part-2-97e7b710dcf
